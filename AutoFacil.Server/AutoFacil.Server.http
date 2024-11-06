@@ -1,0 +1,6 @@
+@AutoFacil.Server_HostAddress = http://localhost:5234
+
+GET {{AutoFacil.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

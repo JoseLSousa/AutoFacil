@@ -1,0 +1,35 @@
+# Node modules e dependências
+AutoFacil.Client/node_modules/
+
+# Diretório de build
+AutoFacil.Client/dist/
+AutoFacil.Client/build/
+AutoFacil.Client/obj
+AutoFacil.Client/bin
+
+# Arquivos temporários e logs
+AutoFacil.Client/.tmp/
+AutoFacil.Client/npm-debug.log*
+AutoFacil.Client/yarn-debug.log*
+AutoFacil.Client/yarn-error.log*
+
+# Arquivos de sistema
+AutoFacil.Client/.DS_Store
+AutoFacil.Client/Thumbs.db
+
+# Configurações locais
+AutoFacil.Client/.env
+AutoFacil.Client/.env.local
+AutoFacil.Client/.env.development.local
+AutoFacil.Client/.env.test.local
+AutoFacil.Client/.env.production.local
+
+# Diretórios IDEs e editores de texto
+AutoFacil.Client/.idea/
+AutoFacil.Client/.vscode/
+
+# Arquivos específicos do Angular CLI
+AutoFacil.Client/.angular/cache
+AutoFacil.Server/bin
+AutoFacil.Server/obj
+AutoFacil.Server/appsettings*.json
