@@ -33,3 +33,4 @@ AutoFacil.Client/.angular/cache
 AutoFacil.Server/bin
 AutoFacil.Server/obj
 AutoFacil.Server/appsettings*.json
+AutoFacil.Client/package-lock.json
